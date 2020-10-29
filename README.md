@@ -1,5 +1,4 @@
-# Yaf IDE Auto Complete
-Yaf框架 PhpStrom代码自动补全、注释
+## Yaf框架用法、代码自动补全
 
 ## 使用说明
 1. clone到本地
